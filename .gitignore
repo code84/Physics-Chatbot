@@ -1,0 +1,20 @@
+# --- Environment ---
+.env
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+
+# --- Database & Data ---
+
+data/physics_db/
+
+data/raw
+
+# --- Streamlit/OS ---
+.streamlit/
+.DS_Store
+# --- Logs & Tests ---
+*.log
+test_results.txt
