@@ -81,7 +81,7 @@ physics-rag-chatbot/
 ### 1. Clone & Set Up Environment
 
 ```bash
-git clone https://github.com/your-username/physics-rag-chatbot.git
+git clone https://github.com/code84/Physics-Chatbot.git
 cd physics-rag-chatbot
 
 python -m venv venv
